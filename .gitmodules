@@ -1,3 +1,6 @@
 [submodule "whatismyrateofexploitation"]
 	path = whatismyrateofexploitation
 	url = git@github.com:communistjesus/whatismyrateofexploitation.git
+[submodule "writings-of-communist-jesus"]
+	path = writings-of-communist-jesus
+	url = git@github.com:communistjesus/writings-of-communist-jesus.git
